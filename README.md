@@ -4,8 +4,9 @@ My name is Rabialco Argana, people call me Alco. <br/>
 
 This is my page for OS (Operating System) course assignment. <br/>
 
-To see my repository click this link.
-[OS202 Repository](https://github.com/rabialco/os202)
+To see my repository and web page click this link below. <br/>
+[OS202 Repository](https://github.com/rabialco/os202/) <br/>
+[OS202 Pages](https://rabialco.github.io/os202/)
 
 ### My Notes
 
