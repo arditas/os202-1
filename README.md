@@ -2,7 +2,7 @@
 
 This is my page for OS (Operating System) couse assignment.
 
-To see my repository click link down below.
+To see my repository click this link.
 [OS202 Repository](https://github.com/rabialco/os202)
 
 ### My Notes
