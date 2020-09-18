@@ -10,7 +10,9 @@ To see my repository click this link.
 This is my notes for this course, I hope this note helps me and all my friend to graduate this course with A score.
 
 ```markdown
-Write your Notes! Don't be lazy! 
+Write your Notes! Don't be lazy!
+
+Notes :
 
 - Hello World!
 
