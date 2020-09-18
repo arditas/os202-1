@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to My OS202 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rabialco/os202/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my page for OS (Operating System) couse assignment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To see my repository click link down below.
+[OS202 Repository](https://github.com/rabialco/os202)
 
-### Markdown
+### My Notes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is my notes for this course, I hope this note helps me and all my friend to graduate this course with A score.
 
 ```markdown
-Syntax highlighted code block
+Write your Notes! Don't be lazy! 
 
-# Header 1
-## Header 2
-### Header 3
+- Hello World!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rabialco/os202/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+To see my profile or my other work, check out my [Github](https://github.com/rabialco)
+Cheers!
