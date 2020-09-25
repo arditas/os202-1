@@ -31,8 +31,19 @@ Week Task Checker :
   4. Top 10 W00 - Loading...
   5. Course Registration - Done.
 
+- Week 1:
+  1. Create or Import a Debian Virtual Guest (OSP) - Done.
+  2. Log into the guest and learn CLI command - Done.
+  3. Create new user account with your Github account - Done.
+  4. Create a tunnel to badak.cs.ui.ac.id via kawung.cs.ui.ac.id - Done
+  5. Copy folders (rsync) from badak - Done.
+  6. Git Pull os202 repository - Done.
+  7. Update and Push mylog.txt - Done.
+  8. Create w00.md and w01.md for Weekly Top 10 List - Loading...
+  9. Read OSC10 Chapter 1, 2, 18. - Done.
+
 ```
 
 ### Contact
-To see my profile or my other work, check out my [Github](https://github.com/rabialco)
+To see my profile or my other work, please check out my [Github](https://github.com/rabialco). <br/>
 Cheers!
