@@ -6,7 +6,7 @@ This is my page for OS (Operating System) course assignment. <br/>
 
 To see my OS202 repository and web page click this link below. <br/>
 Repository -> [OS202 Repository](https://github.com/rabialco/os202/) <br/>
-Web Page -> [OS202 Web Pages](https://rabialco.github.io/os202/)
+Web Page -> [OS202 Web Pages](https://rabialco.github.io/os202/) <br/>
 MyLog -> [OS202 Log](https://rabialco.github.io/os202/TXT/mylog.txt) <br/>
 
 ## Operating Systems Weekly Top Ten List
