@@ -1,4 +1,4 @@
-## Welcome to My OS202 GitHub Pages
+# Welcome to My OS202 GitHub Pages
 
 My name is Rabialco Argana, people call me Alco. <br/> 
 
