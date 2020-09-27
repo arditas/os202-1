@@ -17,7 +17,7 @@ ZCZC W01 60 L01 SCELE related
 ZCZC W01 60 L21 Install GNU/Linux
 ZCZC W01 60 L04 Setting Github Pages
 ZCZC W01 30 L09 Asking AsDos
-ZCZC W01 60 L06 GSGS
+ZCZC W01 60 L05 GSGS
 ZCZC W01 60 L06 Reading Books
 ZCZC W01 60 L10 Assignment #1
 ZCZC W01 60 L11 Assignment #2
@@ -28,3 +28,4 @@ ZCZC W01 30 L15 Assignment #6
 ZCZC W01 30 L16 Assignment #7
 ZCZC W01 120 L17 Assignment #8
 ZCZC W01 60 L18 Assignment #9
+ZCZC W01 60 L06 Reading Books
