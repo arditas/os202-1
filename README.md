@@ -10,6 +10,8 @@ To see my OS202 repository and web page click this link below. <br/>
 * **MyLog** -> [OS202 Log](https://rabialco.github.io/os202/TXT/mylog.txt) <br/>
 
 ## Operating Systems Weekly Top Ten List
+
+This is my Weekly Top Ten List for OS (Operating System) Course Assignment.
 * [Week 00](W00/)
 * [Week 01](W01/)
 
