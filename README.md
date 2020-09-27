@@ -4,9 +4,9 @@ My name is Rabialco Argana, people call me Alco. <br/>
 
 This is my page for OS (Operating System) course assignment. <br/>
 
-To see my OS202 repository and web page click this link below. <br/>
-* **Repository** -> [OS202 Repository](https://github.com/rabialco/os202/) <br/>
-* **Web Page** -> [OS202 Web Pages](https://rabialco.github.io/os202/) <br/>
+To see my OS202 Github Repository and Github Page click this link below. <br/>
+* **Github Repository** -> [OS202 Github Repository](https://github.com/rabialco/os202/) <br/>
+* **Github Page** -> [OS202 Github Page](https://rabialco.github.io/os202/) <br/>
 * **MyLog** -> [OS202 Log](https://rabialco.github.io/os202/TXT/mylog.txt) <br/>
 
 ## Operating Systems Weekly Top Ten List
@@ -14,6 +14,7 @@ To see my OS202 repository and web page click this link below. <br/>
 This is my Weekly Top Ten List for OS (Operating System) Course Assignment.
 * [Week 00](W00/)
 * [Week 01](W01/)
+* [Week 02](W02/)
 
 ## My Notes and Weekly Task
 
