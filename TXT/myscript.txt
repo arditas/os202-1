@@ -6,3 +6,4 @@ echo "Enter your File Format"
 read format
 echo "Loading in progress making $filename.$format ..."
 touch $filename.$format
+echo "$filename.$format is created."
