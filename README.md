@@ -8,6 +8,11 @@ To see my OS202 Github Repository and Github Page click this link below. <br/>
 * **Github Repository** -> [OS202 Github Repository](https://github.com/rabialco/os202/) <br/>
 * **Github Page** -> [OS202 Github Page](https://rabialco.github.io/os202/) <br/>
 * **MyLog** -> [OS202 Log](https://rabialco.github.io/os202/TXT/mylog.txt) <br/>
+* **My Public Key** -> [OS202 PubKey](https://rabialco.github.io/os202/TXT/mypubkey.txt) <br/>
+* **My Top 10 Rank List** -> [OS202 Top 10 Rank](https://rabialco.github.io/os202/TXT/myrank.txt) <br/>
+* **My Script** -> [OS202 MyScript.sh](https://rabialco.github.io/os202/TXT/myscript.sh) <br/>
+* **My SHA256SUM** -> [OS202 SHA256SUM](https://rabialco.github.io/os202/TXT/SHA256SUM) <br/>
+* **My SHA256SUM.asc** -> [OS202 SHA256SUM.asc](https://rabialco.github.io/os202/TXT/SHA256SUM.asc) <br/>
 
 ## Operating Systems Weekly Top Ten List
 
