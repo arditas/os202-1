@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Enter your File Name"
+read filename
+echo "Loading in progress making $filename ..."
+'touch $filename'
