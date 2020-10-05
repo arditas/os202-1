@@ -10,7 +10,8 @@ To see my OS202 Github Repository and Github Page click this link below. <br/>
 * **MyLog** -> [OS202 Log](https://rabialco.github.io/os202/TXT/mylog.txt) <br/>
 * **My Public Key** -> [OS202 PubKey](https://rabialco.github.io/os202/TXT/mypubkey.txt) <br/>
 * **My Top 10 Rank List** -> [OS202 Top 10 Rank](https://rabialco.github.io/os202/TXT/myrank.txt) <br/>
-* **My Script** -> [OS202 MyScript.sh](https://rabialco.github.io/os202/TXT/myscript.sh) <br/>
+* **Script for SHA256SUM (from CbKadal)** -> [OS202 MyScript.sh](https://rabialco.github.io/os202/TXT/myscript.sh) <br/>
+* **My Useful Script for make new file with certain format** -> [OS202 New File Script](https://rabialco.github.io/os202/TXT/myscript.txt) <br/>
 * **My SHA256SUM** -> [OS202 SHA256SUM](https://rabialco.github.io/os202/TXT/SHA256SUM) <br/>
 * **My SHA256SUM.asc** -> [OS202 SHA256SUM.asc](https://rabialco.github.io/os202/TXT/SHA256SUM.asc) <br/>
 
