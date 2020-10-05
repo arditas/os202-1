@@ -49,6 +49,17 @@ Week Task Checker :
   7. Update and Push mylog.txt - Done.
   8. Create w00.md and w01.md for Weekly Top 10 List - Done.
   9. Read OSC10 Chapter 1, 2, 18. - Done.
+  
+- Week 2:
+  1. Read OSC10 Chapter 16, 17. - Done.
+  2. Generate a GnuPG Key Pair - Done.
+  3. Import operatingsystems@vlsm.org Public Key - Done.
+  4. Export my public key to TXT folder - Done.
+  5. Create myrank.txt - Done.
+  6. Create Top 10 List of Week 02 - Loading...
+  7. Create bash script - Done.
+  8. Update mylog.txt - Done.
+  9. Create SHA256SUM and SHA256SUM.asc - Done.
 
 ```
 
