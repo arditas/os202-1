@@ -1,8 +1,4 @@
 #!/bin/bash
-# Cicak bin Kadal
-# Mon Sep 28 22:03:27 WIB 2020
-# Tue 29 Sep 2020 11:02:39 AM WIB
-# PALSU BANGET SEKALI UBAH
 
 FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
 SHA="SHA256SUM"
