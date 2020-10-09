@@ -61,6 +61,18 @@ Week Task Checker :
   7. Create bash script - Done.
   8. Update mylog.txt - Done.
   9. Create SHA256SUM and SHA256SUM.asc - Done.
+  
+- Week 3 :
+  1. Read OSC10 Chapter 13, 14, 15. - Done.
+  2. Try Demos Week 03 (and Week 02) - Done.
+  3. Update ".bash_aliases" file - Done.
+  4. Update myrank.txt for Week 03 - Loading...
+  5. Create Top 10 List of Week 03 - Loading...
+  6. Run "chtoken OS202" and insert to myW03token.txt - Done.
+  7. Download TLPI Code and insert the "disk usage" into myW03disk.txt - Done.
+  8. Update mylog.txt - Done.
+  9. Update bash script - Done.
+  10. Update SHA256SUM and SHA256SUM.asc - Done.
 
 ```
 
