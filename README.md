@@ -66,7 +66,7 @@ Week Task Checker :
   1. Read OSC10 Chapter 13, 14, 15. - Done.
   2. Try Demos Week 03 (and Week 02) - Done.
   3. Update ".bash_aliases" file - Done.
-  4. Update myrank.txt for Week 03 - Loading...
+  4. Update myrank.txt for Week 03 - Done.
   5. Create Top 10 List of Week 03 - Loading...
   6. Run "chtoken OS202" and insert to myW03token.txt - Done.
   7. Download TLPI Code and insert the "disk usage" into myW03disk.txt - Done.
