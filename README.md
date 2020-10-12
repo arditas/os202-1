@@ -13,6 +13,9 @@ To see my OS202 Github Repository and Github Page click this link below. <br/>
 * **My Script.sh (from CbKadal)** -> [OS202 MyScript.sh](https://rabialco.github.io/os202/TXT/myscript.sh) <br/>
 * **My SHA256SUM** -> [OS202 SHA256SUM](https://rabialco.github.io/os202/TXT/SHA256SUM) <br/>
 * **My SHA256SUM.asc** -> [OS202 SHA256SUM.asc](https://rabialco.github.io/os202/TXT/SHA256SUM.asc) <br/>
+* **My W03 Disk** -> [MyW03disk.txt](https://rabialco.github.io/os202/TXT/myW03disk.txt) <br/>
+* **My W03 Token** -> [MyW03token.txt](https://rabialco.github.io/os202/TXT/myW03token.txt) <br/>
+
 
 ## Operating Systems Weekly Top Ten List
 
@@ -57,7 +60,7 @@ Week Task Checker :
   3. Import operatingsystems@vlsm.org Public Key - Done.
   4. Export my public key to TXT folder - Done.
   5. Create myrank.txt - Done.
-  6. Create Top 10 List of Week 02 - Loading...
+  6. Create Top 10 List of Week 02 - Done.
   7. Create bash script - Done.
   8. Update mylog.txt - Done.
   9. Create SHA256SUM and SHA256SUM.asc - Done.
