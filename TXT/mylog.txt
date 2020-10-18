@@ -69,3 +69,22 @@ ZCZC W03 30 L09 Asking AsDos
 ZCZC W03 60 L06 Reading References
 ZCZC W03 60 L05 GSGS
 ZCZC W03 120 L06 Reading Books
+
+# Week 04
+ZCZC W04 120 L02 ZOOM related
+ZCZC W04 30 L03 Github Related
+ZCZC W04 60 L01 SCELE related
+ZCZC W04 30 L04 Github Page related
+ZCZC W04 60 L09 Asking AsDos
+ZCZC W04 120 L10 Assignment #1
+ZCZC W04 15 L11 Assignment #2
+ZCZC W04 15 L12 Assignment #3
+ZCZC W04 60 L13 Assignment #4
+ZCZC W04 30 L14 Assignment #5
+ZCZC W04 30 L15 Assignment #6
+ZCZC W04 15 L16 Assignment #7
+ZCZC W04 15 L17 Assignment #8
+ZCZC W04 15 L18 Assignment #9
+ZCZC W04 60 L06 Reading References
+ZCZC W04 60 L05 GSGS
+ZCZC W04 120 L06 Reading Books
