@@ -5,6 +5,9 @@ SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
 
+echo "rm -f $SHA $SHA.asc"
+rm -f $SHA $SHA.asc
+
 echo "sha256sum $FILES > $SHA"
 sha256sum $FILES > $SHA
 
