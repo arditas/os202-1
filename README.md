@@ -15,6 +15,8 @@ To see my OS202 Github Repository and Github Page click this link below. <br/>
 * **My SHA256SUM.asc** -> [OS202 SHA256SUM.asc](https://rabialco.github.io/os202/TXT/SHA256SUM.asc) <br/>
 * **My W03 Disk** -> [MyW03disk.txt](https://rabialco.github.io/os202/TXT/myW03disk.txt) <br/>
 * **My W03 Token** -> [MyW03token.txt](https://rabialco.github.io/os202/TXT/myW03token.txt) <br/>
+* **My W04 Token** -> [MyW04token.txt](https://rabialco.github.io/os202/TXT/myW04token.txt) <br/>
+* **My W04 Result** -> [MyW04.txt](https://rabialco.github.io/os202/TXT/myW04.txt) <br/>
 
 
 ## Operating Systems Weekly Top Ten List
@@ -82,7 +84,7 @@ Week Task Checker :
   1. Read OSC10 Chapter 9 and Demos Week 04 - Done.
   2. Update Virtual Guest - Done.
   3. Update myrank.txt for Week 03 - Done.
-  4. Create Top 10 List of Week 04 - Loading...
+  4. Create Top 10 List of Week 04 - Done.
   5. Run "chtoken NEWHOPE" and insert to myW04token.txt - Done.
   6. Download W04 Code and write into myW04.txt - Done.
   7. Update mylog.txt - Done.
