@@ -16,7 +16,10 @@ To see my OS202 Github Repository and Github Page click this link below. <br/>
 * **My W03 Disk** -> [MyW03disk.txt](https://rabialco.github.io/os202/TXT/myW03disk.txt) <br/>
 * **My W03 Token** -> [MyW03token.txt](https://rabialco.github.io/os202/TXT/myW03token.txt) <br/>
 * **My W04 Token** -> [MyW04token.txt](https://rabialco.github.io/os202/TXT/myW04token.txt) <br/>
-* **My W04 Result** -> [MyW04.txt](https://rabialco.github.io/os202/TXT/myW04.txt) <br/>
+* **My W04 Result** -> [MyW04.txt](https://rabialco.github.io/os202/TXT/myW04.txt)
+<br/>
+* **My W05 Token** -> [MyW04token.txt](https://rabialco.github.io/os202/TXT/myW05token.txt) <br/>
+* **My W05 Result** -> [MyW04.txt](https://rabialco.github.io/os202/TXT/myW05.txt) <br/>
 
 
 ## Operating Systems Weekly Top Ten List
@@ -27,6 +30,7 @@ This is my Weekly Top Ten List for OS (Operating System) Course Assignment.
 * [Week 02](W02/)
 * [Week 03](W03/)
 * [Week 04](W04/)
+* [Week 05](W05/)
 
 ## My Notes and Weekly Task
 
@@ -87,6 +91,17 @@ Week Task Checker :
   4. Create Top 10 List of Week 04 - Done.
   5. Run "chtoken NEWHOPE" and insert to myW04token.txt - Done.
   6. Download W04 Code and write into myW04.txt - Done.
+  7. Update mylog.txt - Done.
+  8. Update bash script - Done.
+  9. Update SHA256SUM and SHA256SUM.asc - Done.
+
+- Week 5
+  1. Read OSC10 Chapter 10 - Done.
+  2. Update Virtual Guest - Done.
+  3. Update myrank.txt for Week 03 - Done.
+  4. Create Top 10 List of Week 04 - Loading...
+  5. Run "chtoken 12345" and insert to myW05token.txt - Done.
+  6. Download W05 Code and write into myW05.txt - Done.
   7. Update mylog.txt - Done.
   8. Update bash script - Done.
   9. Update SHA256SUM and SHA256SUM.asc - Done.
