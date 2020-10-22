@@ -16,11 +16,9 @@ To see my OS202 Github Repository and Github Page click this link below. <br/>
 * **My W03 Disk** -> [MyW03disk.txt](https://rabialco.github.io/os202/TXT/myW03disk.txt) <br/>
 * **My W03 Token** -> [MyW03token.txt](https://rabialco.github.io/os202/TXT/myW03token.txt) <br/>
 * **My W04 Token** -> [MyW04token.txt](https://rabialco.github.io/os202/TXT/myW04token.txt) <br/>
-* **My W04 Result** -> [MyW04.txt](https://rabialco.github.io/os202/TXT/myW04.txt)
-<br/>
+* **My W04 Result** -> [MyW04.txt](https://rabialco.github.io/os202/TXT/myW04.txt)<br/>
 * **My W05 Token** -> [MyW05token.txt](https://rabialco.github.io/os202/TXT/myW05token.txt)<br/>
-* **My W05 Result** -> [MyW05.txt](https://rabialco.github.io/os202/TXT/myW05.txt)
-<br/>
+* **My W05 Result** -> [MyW05.txt](https://rabialco.github.io/os202/TXT/myW05.txt)<br/>
 
 
 ## Operating Systems Weekly Top Ten List
