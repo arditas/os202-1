@@ -98,7 +98,7 @@ Week Task Checker :
   1. Read OSC10 Chapter 10 - Done.
   2. Update Virtual Guest - Done.
   3. Update myrank.txt for Week 03 - Done.
-  4. Create Top 10 List of Week 04 - Loading...
+  4. Create Top 10 List of Week 04 - Done.
   5. Run "chtoken 12345" and insert to myW05token.txt - Done.
   6. Download W05 Code and write into myW05.txt - Done.
   7. Update mylog.txt - Done.
