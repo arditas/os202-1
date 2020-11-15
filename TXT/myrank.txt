@@ -12,5 +12,9 @@ ZCZC W03 primogu
 ZCZC W03 raihanarmon
 ZCZC W03 nyomangedar
 ZCZC W04 setoprasetyo
-ZCZC W04 primogy
+ZCZC W04 primogu
 ZCZC W04 saddamonpc
+ZCZC W05 qiwqiw
+ZCZC W05 nyomangedar
+ZCZC W05 primogu
+ZCZC W05 saddamonpc
