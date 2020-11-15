@@ -105,6 +105,19 @@ Week Task Checker :
   7. Update mylog.txt - Done.
   8. Update bash script - Done.
   9. Update SHA256SUM and SHA256SUM.asc - Done.
+  
+- Week 6
+  1. Read OSC10 Chapter 3, 4 - Done.
+  2. Update Virtual Guest - Done.
+  3. Update myrank.txt for Week 03 - Done.
+  4. Create Top 10 List of Week 04 - Done.
+  5. Run "chtoken JOLANTRU" and insert to myW06token.txt - Done.
+  6. Download W06 Code and write into myW06.txt - Done.
+  7. Update mylog.txt - Done.
+  8. Update bash script - Done.
+  9. Update SHA256SUM and SHA256SUM.asc - Done.
+  10. Make clean and compress W06 folder - Done.
+  11. GnuPG encrypt (armor) to myW06.tar.bz2.txt - Done.
 
 ```
 
