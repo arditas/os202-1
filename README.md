@@ -31,6 +31,7 @@ This is my Weekly Top Ten List for OS (Operating System) Course Assignment.
 * [Week 04](W04/)
 * [Week 05](W05/)
 * [Week 06](W06/)
+* [Week 07](W07/)
 
 ## My Notes and Weekly Task
 
@@ -118,6 +119,20 @@ Week Task Checker :
   9. Update SHA256SUM and SHA256SUM.asc - Done.
   10. Make clean and compress W06 folder - Done.
   11. GnuPG encrypt (armor) to myW06.tar.bz2.txt - Done.
+  
+- Week 7
+  1. Token : TFAWAKENS
+  2. Read OSC10 Chapter 6, 7, 8 - Done.
+  3. Update Virtual Guest - Done.
+  4. Update myrank.txt for Week 03 - Done.
+  5. Create Top 10 List of Week 04 - Loading...
+  6. Run "chtoken TFAWAKENS" and insert to myW07token.txt - Done.
+  7. Download W07 Code - Done.
+  8. Update mylog.txt - Done.
+  9. Update bash script - Done.
+  10. Update SHA256SUM and SHA256SUM.asc - Done.
+  11. Make clean and compress W07 folder - Done.
+  12. GnuPG encrypt (armor) to myW07.tar.bz2.txt - Done.
 
 ```
 
