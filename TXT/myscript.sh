@@ -3,8 +3,6 @@
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
-rm -f $SHA $SHA.asc
-
 echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
